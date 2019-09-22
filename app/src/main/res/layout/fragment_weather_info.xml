@@ -10,7 +10,7 @@
 
     <TextView
             android:textSize="22sp"
-            android:text="TextView"
+            tools:text="TextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/tvCityName"
@@ -89,7 +89,7 @@
             app:layout_constraintBottom_toBottomOf="@+id/tvTemp"/>
     <TextView
             android:textAlignment="center"
-            android:text="TextView"
+            tools:text="TextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/tvPressure" app:layout_constraintStart_toStartOf="parent"
@@ -98,7 +98,7 @@
             android:layout_marginStart="16dp" android:layout_marginEnd="8dp"/>
     <TextView
             android:textAlignment="center"
-            android:text="TextView"
+            tools:text="TextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/tvHumidity" app:layout_constraintStart_toEndOf="@+id/tvPressure"
