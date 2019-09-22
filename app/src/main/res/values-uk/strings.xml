@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="now">Зараз</string>
+    <string name="pressure">Тиск %s</string>
+    <string name="min_temp">мін темп %s</string>
+    <string name="max_temp">макс темп %s</string>
+    <string name="humidity">Вологість %s</string>
+    <string name="enter_name_city">Введіть назву міста</string>
+    <string name="city_not_found">Помилка місто не знайдене</string>
+    <string name="seven_days">7 Днів</string>
+    <string name="three_days">3 Дня</string>
+</resources>

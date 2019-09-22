@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="now">Сейчас</string>
+    <string name="pressure">Давление %s</string>
+    <string name="min_temp">ммн темп %s</string>
+    <string name="max_temp">макс темп %s</string>
+    <string name="humidity">Влажность %s</string>
+    <string name="enter_name_city">Введите название города</string>
+    <string name="city_not_found">Ошибка город не найден</string>
+    <string name="seven_days">7 Дней</string>
+    <string name="three_days">3 Дня</string>
+</resources>

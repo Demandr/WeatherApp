@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="enter_name_city">Enter a city name</string>
+    <string name="now">Now</string>
+    <string name="min_temp">min temp. %s</string>
+    <string name="max_temp">max temp. %s</string>
+    <string name="humidity">humidity %s</string>
+    <string name="pressure">pressure %s</string>
+    <string name="city_not_found">Error city not found</string>
+    <string name="three_days">3 Days</string>
+    <string name="seven_days">7 Days</string>
+</resources>
